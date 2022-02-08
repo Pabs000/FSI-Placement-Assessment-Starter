@@ -20,7 +20,6 @@ credit.textContent = `Created by ${Pablo Garcia}`
 gbPlusBtn.addEventListener('click', function() {
 // HINT: You can delete this console.log after you no longer need it!
 console.log('Gingerbread + button was clicked!')
-
 // TODO: Write the code to be run when the "+" button for "Gingerbread" is clicked
 })
 // TODO: Hook up event listeners for the rest of the buttons
@@ -62,4 +61,5 @@ if (const gbPlusBtn = document.querySelector('#add-gb')(clicked)
     th id="qty-total">0 = total<
 
 
-
+gbPlusBtn.addEventListener('click', function(document.querySelector.id(".click")
+    consol.log ("Button Clicked")
